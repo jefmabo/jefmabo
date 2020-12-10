@@ -28,7 +28,7 @@ Some times I work with Java too.
 
 - :books: Reading: Clean Coder and Clean Architecture.
 
-- :new: Studying new technologies: React Native and AWS Cloud.
+- :new: New technologies: React Native and AWS Cloud.
 
 
 <p align="justify">
