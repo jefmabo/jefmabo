@@ -5,12 +5,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jeferson-martins-borges-b56a8a169/)](https://linkedin.com/in/jeferson-martins-borges-b56a8a169/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonmartinsborges@gmail.com)](mailto:jefersonmartinsborges@gmail.com)
 
-I've coding since 2014, when found my code passion. 
+Hi, I'm Jeferson!
 
-Since then I've been improving my skills using C# , .netFramework and .net Core.
+I've worked with software development since 2014, since then I've been improving my skills using C# , .netFramework and .net Core.
 
-Today I'm studying javascript to use on Angular, React-native and NodeJs.
-Some times I work with Java too.
+I'm studying javascript to use on Angular, React-native and NodeJs and some times I work with Java (no bias).
 
 **Main Languages and Tools:**  
 
@@ -20,16 +19,20 @@ Some times I work with Java too.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react-native/react-native.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
 - :green_heart: Currently I'm working in an spanish company as back-end developer using mainly C# and Java.
 
 - :blue_heart: Techs: C#, Java, Angular, Node.js, TypeScript, React Native, MongoDB, Linux, AWS.
 
-- :books: Reading: Clean Coder and Clean Architecture.
-
 - :new: New technologies: React Native and AWS Cloud.
 
+**Achievements:**
+  
+<a href="https://www.credly.com/badges/f39fead1-f38b-402d-b612-ad9afd82d9ca/public_url">
+  <img height="80" src="https://images.credly.com/size/220x220/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png">
+</a>
 
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
