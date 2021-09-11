@@ -34,6 +34,11 @@ I'm studying javascript to use on Angular, React-native and NodeJs and some time
   <img height="80" src="https://images.credly.com/size/220x220/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png">
 </a>
 
+
+<a href="https://www.credly.com/badges/42bf659a-a8bb-4e49-b11c-3f83592de5ac/public_url">
+  <img height="80" src="https://images.credly.com/size/220x220/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png">
+</a>
+
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jefmabo&show_icons=true&count_private=true&theme=vue-dark&hide=issues&count_private=true" />
