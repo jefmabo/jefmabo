@@ -34,6 +34,9 @@ I'm studying javascript to use on Angular, React-native and NodeJs and some time
   <img height="80" src="https://images.credly.com/size/220x220/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png">
 </a>
 
+<a href="https://www.credly.com/badges/1245b91a-596e-4964-80a8-b3fefd61e0d4/public_url">
+  <img height="80" src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png">
+</a>
 
 <a href="https://www.credly.com/badges/42bf659a-a8bb-4e49-b11c-3f83592de5ac/public_url">
   <img height="80" src="https://images.credly.com/size/220x220/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png">
