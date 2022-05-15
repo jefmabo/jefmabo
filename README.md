@@ -7,7 +7,7 @@
 
 Hi, I'm Jeferson!
 
-I'm working as software development since 2015, since then I've been improving my skills using C# , .netFramework and .net Core.
+I'm working as software developer since 2015, since then I've been improving my skills using C# , .netFramework and .net Core.
 
 I'm studying javascript to use on Angular, React-native and NodeJs and some times I work with Java (no bias).
 
