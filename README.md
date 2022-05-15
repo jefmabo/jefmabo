@@ -7,7 +7,7 @@
 
 Hi, I'm Jeferson!
 
-I've worked with software development since 2014, since then I've been improving my skills using C# , .netFramework and .net Core.
+I'm working as software development since 2015, since then I've been improving my skills using C# , .netFramework and .net Core.
 
 I'm studying javascript to use on Angular, React-native and NodeJs and some times I work with Java (no bias).
 
@@ -20,9 +20,6 @@ I'm studying javascript to use on Angular, React-native and NodeJs and some time
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-
-- :green_heart: Currently I'm working in an spanish company as back-end developer using mainly C# and Java.
 
 - :blue_heart: Techs: C#, Java, Angular, Node.js, TypeScript, React Native, MongoDB, Linux, AWS.
 
