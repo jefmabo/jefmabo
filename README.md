@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jefmabo)](https://github.com/jefmabo)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/jefmabo)](https://gitlab.com/jefmabo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jeferson-martins-borges-b56a8a169/)](https://linkedin.com/in/jeferson-martins-borges-b56a8a169/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-martins-borges/)](https://www.linkedin.com/in/jeferson-martins-borges/)
 
 Hi, I'm Jeferson!
 
