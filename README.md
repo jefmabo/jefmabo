@@ -1,9 +1,5 @@
 # :computer: Jeferson Borges
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jefmabo)](https://github.com/jefmabo)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/jefmabo)](https://gitlab.com/jefmabo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-martins-borges/)](https://www.linkedin.com/in/jeferson-martins-borges/)
-
 Hi, I'm Jeferson!
 
 I'm working as software developer since 2015, since then I've been improving my skills using C# , .netFramework and .net Core.
